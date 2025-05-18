@@ -2,7 +2,7 @@
 
 
 The examples provided are divided in two folders:
-- [PyMEOS Examples](./PyMEOS%20Examples)  
+- [PyMEOS Examples](./PyMEOS_Examples)  
   Replicas of [Tutorial Programs of MEOS](https://www.libmeos.org/tutorialprograms/) using PyMEOS.
   - [AIS](./PyMEOS_Examples/AIS.ipynb): Contains the PyMEOS examples using AIS data 
     - [Reading from File](https://libmeos.org/tutorialprograms/meos_read_ais/)
